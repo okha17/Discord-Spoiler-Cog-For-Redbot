@@ -1,0 +1,24 @@
+{
+    "author" : [
+        "Osman Khan"
+    ],
+    "description" : "Spoiler images on mobile using the !spoiler command which re uploads the intended image with the spoiler tag and deletes the original upload.",
+    "disabled" : false,
+    "end_user_data_statement" : "",
+    "hidden" : false,
+    "install_msg" : "This cog works by re uploading a single image that is intended to be spoiled with the command !spoiler and it then deletes the original message.",
+    "max_bot_version" : "0.0.0",
+    "min_bot_version" : "3.1.8",
+    "min_python_version" : [
+        3,
+        7,
+        2
+    ],
+    "name" : "SpoilImage",
+    "permissions" : [],
+    "required_cogs" : {},
+    "requirements" : [],
+    "short" : "Spoiler images on mobile.",
+    "tags" : [],
+    "type" : "COG"
+}
